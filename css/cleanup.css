@@ -6,4 +6,6 @@
 }
 
 /* tag 2 */
-div
+div#wall #tag-2{
+  display:none;
+}
